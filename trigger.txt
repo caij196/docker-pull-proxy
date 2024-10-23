@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/squid:latest
+nginx:latest crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/nginx:latest
