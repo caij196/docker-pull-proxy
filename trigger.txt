@@ -1,1 +1,1 @@
-redis:6-alpine crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/redis:6-alpine
+semitechnologies/weaviate:1.19.0 crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/weaviate:1.19.0
