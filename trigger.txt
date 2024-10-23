@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/dify-sandbox:0.2.1
