@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.11 crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/dify-api:0.6.11 
+postgres:15-alpine crpi-yupkuxlowgsqp1ks.cn-shanghai.personal.cr.aliyuncs.com/docker196/dify-api:0.6.11 
